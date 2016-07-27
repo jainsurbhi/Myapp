@@ -1,2 +1,2 @@
-# myapp
+# Myapp
 Login application using Cassandra
